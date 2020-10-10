@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "DnD, CLI, and Other Three-Letter Acronyms"
-date:       2020-10-10 20:42:17 +0000
+date:       2020-10-10 16:42:18 -0400
 permalink:  dnd_cli_and_other_three-letter_acronyms
 ---
 
